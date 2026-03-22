@@ -1,0 +1,7 @@
+$bog_LocalScript_logo_demo $mol_example_small
+	sub /
+		<= Logo $bog_LocalScript_logo
+	tags /
+		\logo
+	aspects /
+		\UI/Logo

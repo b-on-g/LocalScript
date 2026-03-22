@@ -1,0 +1,10 @@
+$bog_LocalScript_button_demo $mol_example_small
+	title \Company Button
+	sub /
+		<= Login $bog_LocalScript_button title \Войти
+		<= Logout $bog_LocalScript_button title \Выйти
+	tags /
+		\logo
+		\icon
+	aspects /
+		\UI\Button
