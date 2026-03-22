@@ -45,3 +45,6 @@
 	pack icon git \https://github.com/nin-jin/mol_icon.git
 \/mol/view
 	include \/mol/view/tree/test
+\/bog/LocalScript/app
+	include \/bog/LocalScript/button
+	include \/bog/LocalScript/logo
